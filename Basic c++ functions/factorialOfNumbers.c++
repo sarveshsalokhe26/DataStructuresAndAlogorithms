@@ -1,5 +1,5 @@
 //Writing a c++ code to find factorials of numbers
-#include<iostream>
+#include<iostream> //
 using namespace std;
 
 int main(){

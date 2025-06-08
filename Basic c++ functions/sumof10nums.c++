@@ -2,7 +2,7 @@
 #include<iostream>
 using namespace std;
 
-int main(){
+int main(){ //
     int numbers[10]; //creating an array that can hold 10  integer values 
     int sum=0;//declaring the intitial value of sum to 0
 
